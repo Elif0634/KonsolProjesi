@@ -11,7 +11,7 @@ namespace elif
         static void Main(string[] args)
         {
             Console.WriteLine("hfeufryegryegyr");
-            Console.ReadLine();Console.WriteLine("v1.0");
+            Console.ReadLine();Console.WriteLine("v1.1");
         }
     }
 }
