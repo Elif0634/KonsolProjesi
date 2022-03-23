@@ -10,6 +10,8 @@ namespace elif
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("hfeufryegryegyr");
+            Console.ReadLine();
         }
     }
 }
